@@ -13,3 +13,5 @@ Api-
 Time and date api 
 
 Text Local api for sending One time password
+
+On downloading the project - open index.php
