@@ -4,7 +4,9 @@ This System will track inventary levels,order,sales and deliveries.It makes orde
 Technologies Used-
 
 Front End - HTML5,CSS,Javascript,Bootstrap4,jQuery
+
 Back End -  Php7
+
 DataBase - mysql
 
 Api-
