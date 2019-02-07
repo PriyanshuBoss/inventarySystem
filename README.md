@@ -16,4 +16,6 @@ Text Local api for sending One time password
 
 Libraries - fpdf Library
 
-On downloading the project - open index.php
+
+On downloading the project - open index.php in your browser
+
