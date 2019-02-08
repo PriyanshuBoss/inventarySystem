@@ -1,6 +1,5 @@
 # inventarySystem
-This System will track inventary levels,order,sales and deliveries.It makes orders for the customers and also creates bills in pdf format.User can add new category brands and product and also update them.
-
+test1
 Technologies Used-
 
 Front End - HTML5,CSS,Javascript,Bootstrap4,jQuery
